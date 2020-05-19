@@ -123,7 +123,7 @@ public class App_Page extends BaseClass {
             count++;
         }
         System.out.println("Count of Top Free: " + count);
-        while (tempNum != 10) {
+        while (tempNum != count) {
             Actions actions = new Actions(driver);
             actions.keyDown(Keys.LEFT_CONTROL)
                     .moveToElement(driver.findElement(By.xpath("((//div[@jsname='O2DNWb'])[7]/*//*[@class='WsMG1c nnK0zc'])[" + index + "]")))
@@ -151,7 +151,7 @@ public class App_Page extends BaseClass {
             count++;
         }
         System.out.println("Count of Top Paid: " + count);
-        while (tempNum != 10) {
+        while (tempNum != count) {
             Actions actions = new Actions(driver);
             actions.keyDown(Keys.LEFT_CONTROL)
                     .moveToElement(driver.findElement(By.xpath("((//div[@jsname='O2DNWb'])[7]/*//*[@class='WsMG1c nnK0zc'])[" + index + "]")))
@@ -207,7 +207,7 @@ public class App_Page extends BaseClass {
             count++;
         }
         System.out.println("Count of Top Grossing: " + count);
-        while (tempNum != 10) {
+        while (tempNum != count) {
             Actions actions = new Actions(driver);
             actions.keyDown(Keys.LEFT_CONTROL)
                     .moveToElement(driver.findElement(By.xpath("((//div[@jsname='O2DNWb'])[7]/*//*[@class='WsMG1c nnK0zc'])[" + index + "]")))
@@ -262,7 +262,7 @@ public class App_Page extends BaseClass {
             count++;
         }
         System.out.println("Count of Top Free Games: " + count);
-        while (tempNum != 10) {
+        while (tempNum != count) {
             Actions actions = new Actions(driver);
             actions.keyDown(Keys.LEFT_CONTROL)
                     .moveToElement(driver.findElement(By.xpath("((//div[@jsname='O2DNWb'])[7]/*//*[@class='WsMG1c nnK0zc'])[" + index + "]")))
@@ -317,7 +317,7 @@ public class App_Page extends BaseClass {
             count++;
         }
         System.out.println("Count of Top Paid Games: " + count);
-        while (tempNum != 10) {
+        while (tempNum != count) {
             Actions actions = new Actions(driver);
             actions.keyDown(Keys.LEFT_CONTROL)
                     .moveToElement(driver.findElement(By.xpath("((//div[@jsname='O2DNWb'])[7]/*//*[@class='WsMG1c nnK0zc'])[" + index + "]")))
@@ -372,7 +372,7 @@ public class App_Page extends BaseClass {
             count++;
         }
         System.out.println("Count of Top Grossing Games: " + count);
-        while (tempNum != 10) {
+        while (tempNum != count) {
             Actions actions = new Actions(driver);
             actions.keyDown(Keys.LEFT_CONTROL)
                     .moveToElement(driver.findElement(By.xpath("((//div[@jsname='O2DNWb'])[7]/*//*[@class='WsMG1c nnK0zc'])[" + index + "]")))
