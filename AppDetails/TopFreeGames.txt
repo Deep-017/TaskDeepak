@@ -1,0 +1,12 @@
+Count of Top Free Games: 200
+App Name: Ludo King™ | Ratings: 4923235 | Last Updated on: 07/05/2020 | Score: 410269
+Days is zero, hence score = rating
+App Name: Carrom Pool | Ratings: 1907896 | Last Updated on: 19/05/2020 | Score: 1907896
+App Name: Garena Free Fire: Wonderland | Ratings: 48367756 | Last Updated on: 03/04/2020 | Score: 1051472
+App Name: Hunter Assassin | Ratings: 879584 | Last Updated on: 11/05/2020 | Score: 109948
+App Name: PUBG MOBILE LITE | Ratings: 4660780 | Last Updated on: 13/05/2020 | Score: 776796
+App Name: Subway Surfers | Ratings: 32770646 | Last Updated on: 14/05/2020 | Score: 6554129
+App Name: Temple Run 2 | Ratings: 9120542 | Last Updated on: 18/05/2020 | Score: 9120542
+App Name: Ludo | Ratings: 46168 | Last Updated on: 18/05/2020 | Score: 46168
+App Name: Subway Princess Runner | Ratings: 407814 | Last Updated on: 12/05/2020 | Score: 58259
+App Name: Gardenscapes | Ratings: 8699288 | Last Updated on: 16/05/2020 | Score: 2899762

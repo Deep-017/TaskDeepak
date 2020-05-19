@@ -1,0 +1,17 @@
+Count of Top Grossing Games: 200
+App Name: PUBG MOBILE - Mad Miramar | Ratings: 28446555 | Last Updated on: 07/05/2020 | Score: 2370546
+App Name: Garena Free Fire: Wonderland | Ratings: 48367832 | Last Updated on: 03/04/2020 | Score: 1051474
+App Name: Call of Duty®: Mobile | Ratings: 8661749 | Last Updated on: 26/04/2020 | Score: 376597
+App Name: Teen Patti by Octro - Indian Poker Card Game | Ratings: 1446218 | Last Updated on: 20/04/2020 | Score: 49869
+App Name: Coin Master | Ratings: 2914960 | Last Updated on: 12/05/2020 | Score: 416422
+App Name: Ludo King™ | Ratings: 4923160 | Last Updated on: 07/05/2020 | Score: 410263
+App Name: Teen Patti Gold - 3 Patti, Rummy, Poker Card Game | Ratings: 1338801 | Last Updated on: 18/05/2020 | Score: 1338801
+App Name: Mobile Legends: Bang Bang | Ratings: 19173400 | Last Updated on: 15/05/2020 | Score: 4793350
+App Name: Gardenscapes | Ratings: 8699691 | Last Updated on: 16/05/2020 | Score: 2899897
+App Name: Clash of Clans | Ratings: 52313956 | Last Updated on: 24/04/2020 | Score: 2092558
+
+===============================================
+Suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
